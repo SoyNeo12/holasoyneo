@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Modelo 3D con Three.js</title>
+    <title>Modelo 3D</title>
     <style>
         body { margin: 0; }
         canvas { display: block; }
